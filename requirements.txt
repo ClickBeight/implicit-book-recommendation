@@ -1,0 +1,4 @@
+implicit
+ipykernel
+numpy
+pandas
