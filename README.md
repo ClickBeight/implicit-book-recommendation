@@ -1,6 +1,6 @@
-Get the data here: [Kaggle Book Recommendation Data Set](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset)
+Get the data here: [Amazon Book Data Set](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data)
 
-Store `Books.csv` and `Ratings.csv` in a directory `data` inside the root directory.
+Store `books_data.csv` and `Books_rating.csv` in a directory `archive` inside the root directory.
 
 Initialize and activate a virtual environment:
 `python3 -m venv .venv`
