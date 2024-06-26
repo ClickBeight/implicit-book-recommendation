@@ -2,3 +2,4 @@ implicit
 ipykernel
 numpy
 pandas
+jupyter
